@@ -1,19 +1,6 @@
 # p13roule1079
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/HiramJJG/p14Card-Jurado1079/assets/144726165/29f88db7-5b08-4f70-95e4-5be654a7b318)
+![image](https://github.com/HiramJJG/p14Card-Jurado1079/assets/144726165/940dc288-6017-4577-8c97-735184ef6058)
+https://andygeek.com/posts/Creando-cards-en-flutter/
+https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view
